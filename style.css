@@ -1,0 +1,33 @@
+h1{
+    color:rgb(186, 56, 193);
+}
+
+h3{
+    color: rgb(21, 0, 255);
+    size: 40px;
+}
+
+.header{
+    background: -webkit-linear-gradient(left, blue,orange);
+    background: linear-gradient(to left, blue,orange);
+    height: 100%;
+}
+
+.about{
+    -ms-flex-item-align: end;
+}
+
+ol{
+    color: rgb(0, 252, 227);
+}
+
+.us{
+    color: rgb(225, 121, 136);
+}
+
+.grid{
+    display: flex;
+    background: -webkit-linear-gradient(left, yellow, red);
+    background: linear-gradient(to left, yellow, red);
+    height: 100%;
+}
